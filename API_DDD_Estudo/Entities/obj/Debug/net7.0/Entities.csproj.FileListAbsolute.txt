@@ -1,0 +1,12 @@
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\bin\Debug\net7.0\Entities.dll
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\obj\Debug\net7.0\Entities.dll
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Entities\obj\Debug\net7.0\ref\Entities.dll

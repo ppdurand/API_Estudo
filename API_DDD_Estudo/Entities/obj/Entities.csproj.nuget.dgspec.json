@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_DDD_Estudo\\Entities\\Entities.csproj": {}
+    "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_Estudo\\API_DDD_Estudo\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_DDD_Estudo\\Entities\\Entities.csproj": {
+    "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_Estudo\\API_DDD_Estudo\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_DDD_Estudo\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_Estudo\\API_DDD_Estudo\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_DDD_Estudo\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_Estudo\\API_DDD_Estudo\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Pedro Durand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_DDD_Estudo\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_Estudo\\API_DDD_Estudo\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro Durand\\AppData\\Roaming\\NuGet\\NuGet.Config",

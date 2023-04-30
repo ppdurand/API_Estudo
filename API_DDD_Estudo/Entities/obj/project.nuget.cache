@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zAbf2ZrOt1UmjeQs5p8+ph+EPk77g0aiFGyurCS4i+dHFH+kVM1Xbrv5ZKvxPGeYJyPpL2x34OTjVppuR1VK6A==",
+  "dgSpecHash": "oTa/LKSV+++i5ZhwzbcUwMvubZ/RT2EAh6ScrNBLMnMWvzIpDvqMyDUt2xZ0tXVqmhLoqKAKTJ8Qm0s/+Od1Fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_DDD_Estudo\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Pedro Durand\\Desktop\\Geral\\códigos\\C#\\Api_Estudo\\API_Estudo\\API_DDD_Estudo\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro Durand\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
     "C:\\Users\\Pedro Durand\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.5\\microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512",

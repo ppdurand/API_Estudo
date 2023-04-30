@@ -1,0 +1,5 @@
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Pedro Durand\Desktop\Geral\códigos\C#\Api_Estudo\API_Estudo\API_DDD_Estudo\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
